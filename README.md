@@ -29,3 +29,8 @@ It showcases core BI concepts including data modeling, DAX calculations, and int
 This dashboard is based on the Global Superstore dataset, a popular sample dataset for Power BI and data visualization projects.
 
 - [Download the Global Superstore Dataset](https://powerbidocs.com/tag/global-super-store-dataset/).
+
+---
+
+## Contact
+Discord: dklarka
